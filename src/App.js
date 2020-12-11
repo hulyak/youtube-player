@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from "react";
-import useVideos from "./components/hooks";
+import useVideos from "./hooks";
 import SearchBar from "./components/SearchBar";
 import VideoDetail from "./components/VideoDetail";
 import VideoList from "./components/VideoList";

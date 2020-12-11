@@ -1,5 +1,5 @@
 import { useState, useEffect } from "react";
-import youtube from "../../config";
+import youtube from "../config";
 
 const useVideos = (defaultSearchTerm) => {
   const [videos, setVideos] = useState([]);
