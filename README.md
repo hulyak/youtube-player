@@ -1,6 +1,6 @@
 # [Personal YouTube web player](my-youtube-player.netlify.app/)
 
-## [Codemetor Page](https://www.codementor.io/project-solutions/awdfoy7t2n)
+## [Codementor Page](https://www.codementor.io/project-solutions/awdfoy7t2n)
 
 ## Introduction
 
